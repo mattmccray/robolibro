@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+
+require('../')()
+
+// const yargs = require("yargs");
+
+// const options = yargs
+//   .usage("Usage: command definition -o <filename>")
+//   .option("o", { alias: "output", describe: "output docx file", type: "string", demandOption: false })
+//   .argv;
+
+
+
+// console.log("Hello from robolibro!");
+
+// const { }
+
+// console.log(options)

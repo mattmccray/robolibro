@@ -1,0 +1,23 @@
+{
+  "name": "robolibro",
+  "version": "1.0.0",
+  "description": "Tools for creating books with markdown",
+  "main": "index.js",
+  "bin": {
+    "robolibro": "bin/robolibro"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew McCray <matthew.mccray@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.9.2",
+    "gray-matter": "^4.0.2",
+    "js-yaml": "^3.13.1",
+    "markdowny": "^0.0.3",
+    "minimist": "^1.2.5",
+    "shelljs": "^0.8.3",
+    "slugify": "^1.4.0"
+  }
+}

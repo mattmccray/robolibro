@@ -1,0 +1,10 @@
+title: "My Book"
+subtitle: "(Optional)"
+author: "Me"
+version: "v1.0"
+published: "November, 2019"
+output: manuscript.docx
+create_titlepage: false
+cleanup: true
+input:
+  - manuscript/*.md
