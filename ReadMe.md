@@ -15,6 +15,8 @@ $ npm install -g github:mattmccray/robolibro
 
 ## Usage
 
+Create a .docx file that is formatted to be easily imported into [Vellum](https://vellum.pub/).
+
 ```bash
 $ robolibro build path/to/book.yaml
 ```
