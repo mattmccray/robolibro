@@ -21,6 +21,8 @@ module.exports = (args) => {
     config = Object.assign(config, config[target])
   }
 
+  if (!output && !config.output) return console.error("No output specified.")
+
   const output_file = !!output
     ? path.resolve(output)
     : path.resolve(source_dir, config.output)
