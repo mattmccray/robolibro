@@ -16,7 +16,7 @@
     "gray-matter": "^4.0.2",
     "js-yaml": "^3.13.1",
     "markdowny": "^0.0.3",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "shelljs": "^0.8.3",
     "slugify": "^1.4.0"
   }
